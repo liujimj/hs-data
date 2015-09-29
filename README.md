@@ -4,6 +4,6 @@ Hearthstone Data
 DBF and CardXML files extracted from the
 [Hearthstone](http://playhearthstone.com) game client.
 
-Version: N/A
+Version: 1.0.0.3140
 
 http://hearthsim.info
